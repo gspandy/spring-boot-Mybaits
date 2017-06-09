@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>cn.timebusker</groupId>
+    <artifactId>spring-boot-Mybaits</artifactId>
+    <version>1.0.0</version>
+  </parent>
+  <artifactId>spring-boot-Mybaits-XML</artifactId>
+  <name>spring-boot-Mybaits-XML</name>
+  <url>http://maven.apache.org</url>
+  <description>Spring Boot整合MyBatis使用实践总结--基于XML配置</description>
+  
+  
+  <dependencies>
+  
+  </dependencies>
+</project>
